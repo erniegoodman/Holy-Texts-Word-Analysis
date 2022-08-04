@@ -8,10 +8,10 @@ IT-516-01
 Professor  Sean Harrington
 
 Green Team:
-Ernest Goodman - data collection, graphical module of the program, TST and Regex
-Sitanshu Mathukia - presentation
+Ernest Goodman - data collection, graphical module of the program.
+Sitanshu Mathukia - presentation.
 Greeshma Sree Katam - data collection, evaluation, and presentation (intro).
-Xinwei Tang - presentation
+Xinwei Tang - presentation.
 Vinita Malhar Chinchwade - data collection, statistica, and testing.
 
 
