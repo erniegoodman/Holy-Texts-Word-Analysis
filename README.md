@@ -1,6 +1,8 @@
 # Holy-Texts-Word-Analysis
 JAVA program that can analyze word frequencies and other things
 
+Group Discussion 3
+Date: 8/3/2022
 
 IT-516-01
 Professor  Sean Harrington
