@@ -1,5 +1,5 @@
 # Holy-Texts-Word-Analysis
-JAVA program that can analyze word frequencies and other things
+JAVA program that can analyze word frequencies in holy texts such as Mahabharta, Bible, Talmud and Quran.
 
 Group Discussion 3
 Date: 8/3/2022
