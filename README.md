@@ -15,6 +15,18 @@ Xinwei Tang - presentation.
 Vinita Malhar Chinchwade - data collection, statistica, and testing.
 
 
+
+ *  Compile...
+ *  javac-algs4 holytexts.java
+ *
+ *  Use...
+ *
+ *  java-algs4 holytexts "(\w+)" Mahabharta.txt
+ *  java-algs4 holytexts "(\w+)" Babylonian-Talmud.txt
+ *  java-algs4 holytexts "(\w+)" King-James-Bible.txt
+ *  java-algs4 holytexts "(\w+)" Quran.txt
+
+
 ![image](https://user-images.githubusercontent.com/107162048/182742140-332eb551-9bc5-4e09-82fd-a2695ebd979f.png)
 
 
